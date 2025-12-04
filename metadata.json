@@ -1,0 +1,8 @@
+{
+  "name": "staff attendance",
+  "description": "A smart attendance tracking application that captures selfies and uses AI to generate personalized greetings upon clock-in.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
